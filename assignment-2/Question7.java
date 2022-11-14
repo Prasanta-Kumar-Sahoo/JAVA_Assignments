@@ -37,6 +37,5 @@ public class Question7 {
         System.out.println("the factorial using For loop of a given number " + num3 + " is " + fact3);
 
         sc.close();
-
     }
 }

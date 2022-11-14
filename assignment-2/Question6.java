@@ -26,5 +26,6 @@ public class Question6 {
         } else {
             System.out.println("try again....");
         }
+        sc.close();
     }
 }

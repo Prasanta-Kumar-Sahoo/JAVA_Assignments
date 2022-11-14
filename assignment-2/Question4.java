@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import java.util.*;
 
 public class Question4 {
@@ -26,6 +25,8 @@ public class Question4 {
             }
             System.out.println("sum =" + sum);
         }
+
+        sc.close();
 
     }
 }

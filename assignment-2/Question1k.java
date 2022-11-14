@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Question1k {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int num, num1, temp, diff = 0, sum1 = 0, sum2 = 0;
+        int num, num1, temp, sum1 = 0, sum2 = 0;
         System.out.println("enter a number: ");
         num = sc.nextInt();
 
